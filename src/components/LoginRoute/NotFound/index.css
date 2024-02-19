@@ -1,0 +1,13 @@
+.notfound-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.notfound-img {
+    width: 95%;
+    height: 95vh;
+}

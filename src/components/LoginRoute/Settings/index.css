@@ -1,0 +1,12 @@
+.settings-con {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    font-size: 120px;
+    color: black;
+}
